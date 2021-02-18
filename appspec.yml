@@ -1,5 +1,2 @@
-version: 0.0
-os: linux
-files:
-  - source: ./index.html
-    destination: /root/home/ubuntu/myrepo
+dmVyc2lvbjogMC4wCm9zOiBsaW51eApmaWxlczoKICAtIHNvdXJjZTogLi9pbmRleC5odG1sCiAg
+ICBkZXN0aW5hdGlvbjogL2hvbWUvdWJ1bnR1L215cmVwbwo=
